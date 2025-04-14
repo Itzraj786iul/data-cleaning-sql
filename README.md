@@ -18,3 +18,15 @@ This project demonstrates SQL techniques for cleaning and preparing datasets for
 
 ## 📋 How to Use
 1. Clone this repository:
+   git clone https://github.com/Itzraj786iul/data-cleaning-sql.git
+
+2. Open `project_of_data_cleaning.sql` in your preferred SQL editor.
+3. Run the queries step by step on your dataset.
+
+## 🧑‍💻 Author
+Raziullah Ansari  
+[LinkedIn](https://www.linkedin.com/in/raziullah-ansari-8984431b6/) | [GitHub](https://github.com/Itzraj786iul)
+
+## 📝 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
